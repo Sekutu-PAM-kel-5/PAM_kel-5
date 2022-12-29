@@ -1,4 +1,4 @@
-# Money Drift  <img src="assets/LOGO (2).png" width="180"/>
+# Money Drift               <img src="assets/LOGO (2).png" width="100"/>
 
 # Our Team 5
 <div align='center'>
@@ -9,7 +9,7 @@
 
 </div>
 
-## Latar Belakang Masalah
+## Deskripsi Umum
 
 Manajemen keuangan adalah kegiatan perencanaan, pengelolaan, penyimpanan, serta pengendalian dana dan aset yang dimiliki suatu perusahaan. Pengelolaan keuangan harus direncanakan dengan matang agar tidak timbul masalah di kemudian hari. Pengelolaan keuangan merupakan hal yang penting, tapi tidak mudah untuk dilakukan bagi sebagian orang. Beberapa penelitin menunjukan bahwa mayoritas masyarakat belum menyadari akan pentingnya mengelola keuangan, khususnya pengelolaan keuangan pribadi. Jika pengelolaan keuangan dilakukan secara terencana dan terstruktur maka akan menghasilkan manfaat yang baik dan mampu membantu masyarakat untuk mencapai tujuan tertentu.
 
